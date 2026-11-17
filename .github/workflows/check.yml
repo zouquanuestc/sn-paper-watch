@@ -1,0 +1,54 @@
+name: Springer Nature paper status check
+
+on:
+  schedule:
+    # 01:00 UTC = 09:00 Beijing ; 13:00 UTC = 21:00 Beijing
+    - cron: '0 1 * * *'
+    - cron: '0 13 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sn-status-check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install playwright==1.55.0
+          python -m playwright install --with-deps chromium
+
+      - name: Run status check
+        env:
+          SN_EMAIL: ${{ secrets.SN_EMAIL }}
+          SN_PASSWORD: ${{ secrets.SN_PASSWORD }}
+          SMTP_AUTH: ${{ secrets.SMTP_AUTH }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+        run: python check.py
+
+      - name: Commit updated snapshot
+        if: always()
+        run: |
+          git config user.name "sn-status-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add state/snapshot.txt || true
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update submission snapshot [skip ci]"
+            git push
+          else
+            echo "no snapshot change to commit"
+          fi
