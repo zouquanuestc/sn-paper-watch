@@ -27,10 +27,18 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Install dependencies
+      - name: Install Python packages
         run: |
-          pip install playwright==1.55.0
-          python -m playwright install --with-deps chromium
+          pip install --upgrade pip
+          pip install "playwright==1.65.2"
+
+      - name: Download Chromium
+        run: |
+          python -m playwright install chromium || (sleep 15 && python -m playwright install chromium)
+
+      - name: Install system dependencies (best effort)
+        run: |
+          python -m playwright install-deps chromium || echo "system deps install skipped/failed - continuing with preinstalled libs"
 
       - name: Run status check
         env:
