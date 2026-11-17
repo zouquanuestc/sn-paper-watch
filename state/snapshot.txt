@@ -1,0 +1,158 @@
+Biosecurity Screening of Obfuscated Bacterial Virulence-Factor Sequences via DuetScreen | Nature Machine Intelligence | Editorial assignment
+Learning alignment topology improves structural variant discovery from long-read sequencing | Nature Communications | Peer review
+RetroMind: A Human-in-Loop AI-Driven Retrosynthetic Analysis Platform to Accelerate Drug Discovery | Nature Computational Science | Submission rejected
+Reaction-aware hypergraph learning of chemical representations with LARK | Nature Catalysis | Technical checks
+Reaction-aware hypergraph learning of chemical representations with LARK | Nature Computational Science | Submission rejected
+Inferring gene associations from molecular structure for drug synergy prediction with limited annotation | Nature Communications | Submission rejected
+Large-Scale Multi-Reference Sequence Alignment with HAlign-5 | Nature Methods | Submission rejected
+Phage-mediated horizontal transfer of multidrug resistance islands in the human gut microbiome | Nature Communications | Submission accepted
+Needs action Inferring gene associations from molecular structure for drug synergy prediction with limited annotation | Nature Computational Science | Recommended for transfer: You need to choose another journal.
+Graph-based Contrastive and Consistency-preserving Subspace Multi-view Clustering | Applied Intelligence | Peer review
+Graph-based Contrastive and Consistency-preserving Subspace Multi-view Clustering | Applied Intelligence | Peer review
+Reaction-aware hypergraph learning of chemical representations with LARK | Nature Machine Intelligence | Transfer completed
+A Novel Support Bio-Sequence-Guided Model with Application to Epigenetic Modification Prediction | Nature Communications | Submission rejected
+Long-range stromal–immune communication reorganizes response niches in oral squamous cell carcinoma | Nature Communications | Submission rejected
+The monkey regulome provides insight into origin and evolution of regulatory element across primates | Nature Genetics | Submission rejected
+Semantic-level multimodal molecular learning inspired by biological concept formation via soft matching | Nature Communications | Revision requested: The corresponding author needs to make revisions to this submission.
+Reprogrammed infection-state cells orchestrate intercellular immune signaling in Medicago roots against Phytophthora | Nature Communications | Peer review
+PauseNet: base-resolution prediction and interpretation of pausing-associated transcription profiles from DNA sequence | Nature Communications | Submission rejected
+scMomer: a pretraining framework for inferring robust cellular representations from single-cell transcriptomes | Nature Communications | Submission accepted
+A Novel Support Bio-Sequence-Guided Model with Application to Epigenetic Modification Prediction | Nature Computational Science | Submission rejected
+Learning alignment topology improves structural variant discovery from long-read sequencing | Nature Machine Intelligence | Transfer completed
+Learning alignment topology improves structural variant discovery from long-read sequencing | Nature Methods | Transfer completed
+PauseNet: base-resolution prediction and interpretation of pausing-associated transcription profiles from DNA sequence | Nature Computational Science | Submission rejected
+ViRA: A scalable viral reference aligner for accurate large-scale genome alignment and variant analysis | Nature Communications | Submission rejected
+PauseNet: base-resolution prediction and interpretation of pausing-associated transcription profiles from DNA sequence | Nature Computational Science | Submission withdrawn
+ViRA: A scalable viral reference aligner for accurate large-scale genome alignment and variant analysis | Nature Methods | Transfer completed
+A Novel Biosequence Language Model with Application on Epigenetic Modification Prediction | Nature Machine Intelligence | Submission rejected
+LEAF-G×E: A Learnable Effective Accumulation Framework for Genome-Environment Interaction Modeling and Biological Discovery in Crops | Nature Plants | Recommended for transfer: The corresponding author needs to choose another journal.
+MEGPNM as a multiscale edge-aware GAT network with hybrid pooling predicting permeability of non-peptidic macrocycles | Communications Chemistry | Submission accepted
+Needs action Chemical Vision to Synergistic Mechanisms: Structure-Driven Inference for Drug Combination Prediction | Nature Communications | Recommended for transfer: You need to choose another journal.
+Decoding the Sequence Determinants of Locus Specific DNA Methylation Across Human Tissues | Nature Communications | Submission accepted
+The monkey regulome provides insight into origin and evolution of regulatory element across primates | Nature | Transfer completed
+A reliability-aware pairwise learning framework for DTI prediction with interaction-driven graph representations | Nature Communications | Submission rejected
+scFuseCpG: scalable single-cell methylome imputation by graph-guided dense feature fusion | Nature Communications | Submission rejected
+scFuseCpG: scalable single-cell methylome imputation by graph-guided dense feature fusion | Nature Methods | Transfer completed
+KAN-Flow: Discrete Flow Matching with Kolmogorov–Arnold Networks for Target-Conditioned Peptide Sequence Design | Nature Computational Science | Submission rejected
+Needs action Chemical Vision to Synergistic Mechanisms: Structure-Driven Inference for Drug Combination Prediction | Nature Methods | Recommended for transfer: You need to choose another journal.
+Collaborative Multi-agent Framework for Autonomous Analysis of Single-cell Tasks | Nature Computational Science | Submission rejected
+KAN-Flow: Discrete Flow Matching with Kolmogorov–Arnold Networks for Target-Conditioned Peptide Sequence Design | Nature Health | Submission rejected
+Decoding the Functional Semantics of Obfuscated Biosequences for synthetic safety via SecureMamba | Nature Communications | Submission rejected
+Decoding the Functional Semantics of Obfuscated Biosequences for synthetic safety via SecureMamba | Nature Computational Science | Submission rejected
+KAN-Flow: Discrete Flow Matching with Kolmogorov–Arnold Networks for Target-Conditioned Peptide Sequence Design | Nature Communications | Submission rejected
+UniPept: A Universal Model for Predicting Peptide Properties Based on Atom-Residue Dual-Scale Integration | Interdisciplinary Sciences: Computational Life Sciences | Submission accepted
+UniPept: A Universal Model for Predicting Peptide Properties Based on Atom-Residue Dual-Scale Integration | Interdisciplinary Sciences: Computational Life Sciences | Submission accepted
+UniPept: A Universal Model for Predicting Peptide Properties Based on Atom-Residue Dual-Scale Integration | Interdisciplinary Sciences: Computational Life Sciences | Submission accepted
+Chemical Vision to Synergistic Mechanisms: Structure-Driven Inference for Drug Combination Prediction | Nature Machine Intelligence | Transfer completed
+G4former: A Multi-Modal Transformer Framework for Predicting Human Cell-Type-Specific G-Quadruplexes | Nature Communications | Submission rejected
+Needs action Chemical Vision to Synergistic Mechanisms: Structure-Driven Inference for Drug Combination Prediction | Nature Health | Recommended for transfer: You need to choose another journal.
+Cold-start evaluation under structured distribution shift | Nature Reviews Computing | Submission rejected
+Needs action Auditable cold-start evaluation under explicit deployment assumptions for DDI and DTI | Nature Reviews Methods Primers | Recommended for transfer: You need to choose another journal.
+LEAF-G×E: A Learnable Effective Accumulation Framework for Genome-Environment Interaction Modeling and Biological Discovery in Crops | Nature Computational Science | Submission rejected
+LEAF-G×E: A Learnable Effective Accumulation Framework Models Genome-Environment Interaction and Predicts Effective Environmental Variables Impacting Crop Trait | Cell Discovery | Submission rejected
+Phage-mediated horizontal transfer of multidrug resistance islands in the human gut microbiome | Nature Microbiology | Transfer completed
+Cluster-guided multimodal deep learning improves gastric cancer prognosis prediction and uncovers interpretable immune phenotypes | Nature Health | Transfer completed
+A DNA methylation language model reveals the sequence logic of cell-type-specific epigenetic regulation | Nature Machine Intelligence | Recommended for transfer: The corresponding author needs to choose another journal.
+Reprogrammed infection-state cells orchestrate intercellular immune signaling in Medicago roots against Phytophthora | Nature Plants | Transfer completed
+Cluster-guided multimodal deep learning improves gastric cancer prognosis prediction and uncovers interpretable immune phenotypes | Nature Biomedical Engineering | Submission rejected
+FIMH: A High-Speed Fungal Sequence Retrieval and identification Algorithm Tool Based on Minhash and HNSW | Interdisciplinary Sciences: Computational Life Sciences | Submission rejected
+Hierarchical representations with structure-aware inductive bias for predicting protein-protein interaction modulators | Nature Machine Intelligence | Recommended for transfer: The corresponding author needs to choose another journal.
+scLDM: A conditional diffusion framework for single-cell perturbation prediction | Nature Computational Science | Submission rejected
+LEAF-G×E: A learnable effective accumulation framework for multimodal genome-environment interaction modeling | Nature Communications | Submission rejected
+LEAF-G×E: A learnable effective accumulation framework for multimodal genome-environment interaction modeling | Nature Plants | Transfer completed
+SCmapST enables single-cell spatial reconstruction by seeded matches-driven integration of single-cell and spatial transcriptomics | Nature Communications | Submission rejected
+SCmapST enables single-cell spatial reconstruction by seeded matches-driven integration of single-cell and spatial transcriptomics | Nature Methods | Transfer completed
+Hierarchical representations with structure-aware inductive bias for predicting protein-protein interaction modulators | Nature Communications | Submission rejected
+Adaptive Geometric Deep Learning improves Non-Canonical Peptide–Protein Binding Site Prediction | Communications Biology | Submission rejected
+scLDM: A conditional diffusion framework for single-cell perturbation prediction | Nature Machine Intelligence | Submission rejected
+MCST: Spatial Domain Identification in Spatial Transcriptomics Using a Multi-Graph Contrastive Learning Graph Convolutional Network | Interdisciplinary Sciences: Computational Life Sciences | Submission rejected
+Semantic-level multimodal molecular learning inspired by biological concept formation via soft matching | Nature Machine Intelligence | Submission rejected
+Melody: Decoding the Sequence Determinants of Locus-Specific DNA Methylation Across Human Tissues | Nature Genetics | Transfer completed
+scHilda: Hierarchical Integration of LLM with KG Database for Single Cell Type Annotation | Nature Communications | Recommended for transfer: The corresponding author needs to choose another journal.
+PolyAnalysis: a deep learning–based framework for poly(A) tail detection, sequence reconstruction and 3′-end regulation profiling with nanopore sequencing | Communications Biology | Submission rejected
+PolyAnalysis: a deep learning–based framework for poly(A) tail detection, sequence reconstruction and 3′-end regulation profiling with nanopore sequencing | Nature Methods | Transfer completed
+Antagonistic Role of Niloticin in Dengue Virus Infection by Influencing STAT1/2/3 Signal Transduction | Communications Chemistry | Recommended for transfer: The corresponding author needs to choose another journal.
+Multi-Task Antimicrobial Peptide Discriminator based on Multi-Scale Feature Fusion and Generator Guided by Minimum Inhibitory Concentration | Nature Machine Intelligence | Submission rejected
+TAPB: An Interventional Debiasing Framework for Alleviating Target Prior Bias in Drug-Target Interaction Prediction | Nature Communications | Submission accepted
+PolyAnalysis: a deep learning–based framework for poly(A) tail detection, sequence reconstruction and 3′-end regulation profiling with nanopore sequencing | Nature Communications | Transfer completed
+A Measurement-Invariant Functional Fingerprint of Drug Action through Disentanglement of Multi-Modal Cellular Profiles | Nature Communications | Submission rejected
+Multi-Task Antimicrobial Peptide Discriminator based on Multi-Scale Feature Fusion and Antimicrobial Peptide Generator Guided by Minimum Inhibitory Concentration | Nature Communications | Submission rejected
+AnchorMol: Anchor-center soft matching for self-supervised semantic alignment of multimodal molecular representations | Nature Communications | Submission rejected
+scMomer: A generic foundation model for single-cell multi-omics data with modality incompleteness | Nature Machine Intelligence | Recommended for transfer: The corresponding author needs to choose another journal.
+AnchorMol: Anchor-center soft matching for self-supervised semantic alignment of multimodal molecular representations | Nature Machine Intelligence | Transfer completed
+Incorporating Valuable Prior Knowledge to Improve Deep Learning Prediction of Genetic Perturbation Responses | Nature Computational Science | Submission rejected
+UACD-ACPs: A Unified Attention and Conditional Diffusion Framework for anticancer peptides Prediction and Generation | Nature Communications | Recommended for transfer: The corresponding author needs to choose another journal.
+Incorporating Valuable Prior Knowledge to Improve Deep Learning Prediction of Genetic Perturbation Responses | Nature Communications | Submission rejected
+Incorporating Valuable Prior Knowledge to Improve Deep Learning Prediction of Genetic Perturbation Responses | Nature Machine Intelligence | Submission rejected
+Deciphering Cell–Cell Communication in Spot-Based Spatial Transcriptomics through Single-Cell-Informed Graph Convolutional Networks | Communications Biology | Submission rejected
+scMomer: A generic foundation model for single-cell multi-omics data with modality incompleteness | Nature Biotechnology | Transfer completed
+Support Bio-Sequence-Guided Bio-Language Modeling of Nucleic Acids for Epigenetic Modification Prediction | Nature Biomedical Engineering | Submission rejected
+Deciphering Cell–Cell Communication in Spot-Based Spatial Transcriptomics through Single-Cell-Informed Graph Convolutional Networks | Nature Communications | Submission rejected
+Support Bio-Sequence-Guided Bio-Language Modeling of Nucleic Acids for Epigenetic Modification Prediction | Nature Protocols | Submission rejected
+UniSyn: A Multi-Modal Framework with Knowledge Transfer for Drug Synergy Prediction | Nature Computational Science | Submission rejected
+Single-Cell Analysis Reveals Cellular Ecosystem Remodeling During the Inflammation-Dysplasia-Carcinoma Progression of Human Gallbladder Cancer | Cell Death & Disease | Submission rejected
+scMomer: A modality-aware pretraining framework for single-cell multi-omics modeling under missing modality conditions | Nature Computational Science | Submission rejected
+An Explainable Deep Learning Framework Integrating DNA Sequence and Transcription Initiation Signals for Gene Expression Prediction | Nature Computational Science | Submission rejected
+Support Bio-Sequence-Guided Bio-Language Modeling of Nucleic Acids for Epigenetic Modification Prediction | Nature Methods | Transfer completed
+Fan-miR159 family targets two types of genes to potentially regulate the development of strawberry anther | Planta | Submission rejected
+CryoSIP: Unleashing Protein High-Resolution Cryo-EM via Semantic-Instance Collaborative Picking | Nature Communications | Submission rejected
+M2ST: Dissecting Spatial Domains in Spatial Transcriptomics by a Masked Graph Attention Autoencoder | Communications Biology | Recommended for transfer: The corresponding author needs to choose another journal.
+An Explainable Deep Learning Framework Integrating DNA Sequence and Transcription Initiation Signals for Gene Expression Prediction | Nature Machine Intelligence | Submission rejected
+Support Bio-Sequence-Guided Bio-Language Modeling of Nucleic Acids for Epigenetic Modification Prediction | Nature Computational Science | Submission rejected
+SCMPNet: Spiking Communicative Message Passing Network for Molecular Property Prediction | Nature Communications | Submission rejected
+Antagonistic Role of Niloticin in Dengue Virus Infection by Influencing STAT1/2/3 Signal Transduction | Communications Biology | Transfer completed
+BiGvCL: Bipartite Graph-based Cross-Domain Contrastive Learning for Predicting Drug-Gene Interactions | Communications Biology | Recommended for transfer: The corresponding author needs to choose another journal.
+Explainable Deep Learning Framework Integrating DNA Sequence and Transcription Initiation Signals for Gene Expression Prediction | Nature Communications | Submission rejected
+MicroEnvPPI: Microenvironment-Aware Optimization for Protein–Protein Interaction Prediction | Communications Biology | Submission rejected
+PRDX6-mediated radioresistance mechanism in colorectal cancer cells and structure-guided drug repurposing via ROS-mediated PI3K-Akt-P53 axis | Biological Research | Submission rejected
+TF-loop: Deciphering the transcription factor regulatory language for CTCF-mediated chromatin loop based on BERT | Communications Biology | Submission rejected
+PRDX6 Depletion Enhances Radiosensitivity in Colorectal Cancer via Suppression of the PI3K/Akt Pathway: An Integrated Study Combining Single-Cell and Bulk Transcriptomic Analyses with Structure-Guided Drug Repositioning | Biological Research | Submission deleted
+PRDX6 Depletion Enhances Radiosensitivity in Colorectal Cancer via Suppression of the PI3K/Akt Pathway: An Integrated Study Combining Single-Cell and Bulk Transcriptomic Analyses with Structure-Guided Drug Repositioning | Interdisciplinary Sciences: Computational Life Sciences | Submission rejected
+Unravelling cell heterogeneity and gene regulation mechanisms in multiple myeloma through single-cell RNA-seq | Journal of Translational Medicine | Submission rejected
+scMIB: Compact and Informative Representation Learning for scRNA-seq Data Clustering | Nature Communications | Recommended for transfer: The corresponding author needs to choose another journal.
+Chimera: Ultrafast and Resource-efficient Database Construction for High-Accuracy Taxonomic Classification in the Age of Expanding Genomic Data | Nature Communications | Transfer completed
+VQ-RNA: A unified deep learning framework for comprehensive prediction and interpretation of multiple types of RNA modifications with vector-quantized variational autoencoders | Nature Communications | Submission rejected
+VQ-RNA: A unified deep learning framework for comprehensive prediction and interpretation of multiple types of RNA modification with VQ-VAE | Nature Computational Science | Submission rejected
+Chimera: Ultrafast and Resource-efficient Database Construction for High-Accuracy Taxonomic Classification in the Age of Expanding Genomic Data | Nature Computational Science | Transfer completed
+Efficient Stepwise Retrosynthesis Planning via Dynamic Selective Sampling | Nature Computational Science | Submission rejected
+Intratumoral bacteria play a role in the responsiveness to neoadjuvant PD-1 blockade in oral squamous cell carcinoma | Nature Communications | Submission rejected
+Predicting rare drug-drug interaction events with dual-granular structure-adaptive and pair variational representation | Nature Communications | Submission accepted
+ViruSeg: Harnessing the Power of Large Language-Image Model for Enhanced Virus Image Segmentation | Interdisciplinary Sciences: Computational Life Sciences | Submission accepted
+Progress and applications of single-cell RNA sequencing and spatial transcriptome technology in acute kidney injury research | Journal of Translational Medicine | Submission rejected
+SpaMask: Dissecting spatial domains in spatial transcriptomics by a masked graph attention autoencoder | Nature Communications | Submission rejected
+Single-Cell Transcriptome Analysis Reveals Immune Microenvironment Changes and Insights into the Transition from DCIS to IDC with Associated Prognostic Genes | Journal of Translational Medicine | Submission accepted
+cACP-SnBiLSTM: Predicting Anticancer Peptides by leveraging Protein language Model based Word Encoding and Sequential clustering with Novel Self-Normalized Bidirectional LSTM | Interdisciplinary Sciences: Computational Life Sciences | Submission rejected
+Improving drug-target affinity predictions with explainable multi-modal deep learning | Nature Communications | Submission rejected
+Graph Neural Networks Discover the Relationship between Molecule Metabolic Pathway Types and Functional Groups | Nature Communications | Submission rejected
+Enhancing and accelerating cell type deconvolution of large-scale spatial transcriptomics slices with dual network model | Nature Communications | Submission rejected
+Improving drug-target affinity predictions with explainable multi-modal deep learning | Nature Computational Science | Submission rejected
+A spatial hierarchical network learning framework for drug repositioning allowing interpretation from macro to micro | Nature Communications | Transfer completed
+Machine learning enables comprehensive prediction of the relative protein abundance of multiple proteins on the protein corona | Nature Communications | Submission rejected
+Application of Artificial Intelligence in Drug-Target Interactions Prediction: A Review | Nature Communications | Submission rejected
+Multi-kernel learning fusion algorithm based on RNN and GRU for ASD diagnosis and pathogenic brain region extraction | Interdisciplinary Sciences: Computational Life Sciences | Submission accepted
+Identifying the "stripe" transcription factors and co-binding TF pairs related to DNA methylation | Nature Communications | Transfer completed
+Super vertex biomedical networks learning framework for drug repositioning with multi-granular interpretability | Nature Computational Science | Submission rejected
+SBSM-Pro: Support Bio-sequence Machine for Proteins | Nature Communications | Submission rejected
+Super vertex biomedical networks learning framework for drug repositioning with multi-granular interpretability | Nature Communications | Submission rejected
+SBSM-Pro: Support Bio-sequence Machine for Proteins | Nature Computational Science | Submission rejected
+Discovery of EP4 antagonists through image-guided deep learning workflow | Nature Communications | Submission rejected
+Robust and Adaptive Deep Model Ensemble Framework Fine-tuned by Structural Information for Drug-Target Interactions | Nature Communications | Submission rejected
+Halign-G: rapid and low-memory multiple-genome aligner for thousands of human genomes | Nature Computational Science | Submission rejected
+Predicting active enhancers with DNA methylation and histone modification | BMC Bioinformatics | Submission accepted
+Hierarchical molecular graph neural network for drug repositioning and application to COVID-19 | Nature Communications | Submission rejected
+TPMA: a two pointers meta-alignment tool to ensemble different multiple nucleic acid sequence alignments | Nature Computational Science | Submission rejected
+Retrosynthesis prediction with an interpretable deep-learning framework based on molecular assembly tasks | Nature Communications | Submission accepted
+DeepMPF: Deep Learning Framework for Predicting Drug-Target Interactions based on Multi-Modal Representation with Meta-Path Semantic Analysis | Journal of Translational Medicine | Submission accepted
+The method based on optimal candidate numerical features to improve the recognition accuracy of antifreeze proteins | Journal of Translational Medicine | Submission rejected
+Multiple feature ranking strategies for predicting plant soil-borne fungal disease occurrence from soil microbiome data | Plant and Soil | Submission rejected
+Multiple feature ranking strategies for predicting plant soil-borne fungal disease occurrence from soil microbiome data | Plant and Soil | Submission deleted
+Identifying and Classifying Enhancers by Dinucleotide-based Auto-cross Covariance and Attention-based Bi-LSTM | Journal of Translational Medicine | Submission rejected
+Maximal information coefficient-based testing to identify epistasis in case-control association studies | Interdisciplinary Sciences: Computational Life Sciences | Submission rejected
+FTWSVM-SR: DNA-binding Proteins Identification via Fuzzy Twin Support Vector Machines on Self Representation | Interdisciplinary Sciences: Computational Life Sciences | Submission accepted
+iTTCA-RF: A random forest predictor for tumor T cell antigens | Journal of Translational Medicine | Submission accepted
+Genome-wide analysis of LysM-containing gene family in Wheat: evolution and duplications during development and denfences | Journal of Plant Research | Submission rejected
+Ecological and network analyses identify four microbial species with potential significance for the diagnosis/treatment of ulcerative colitis (UC) | Journal of Gastroenterology | Submission rejected
+Investigation and Development of Maize Fused Network Analysis with Multi-omics | Planta | Submission rejected
+Construction and identification of the RNAi recombinant lentiviral vector targeting human DEPDC7 gene | Interdisciplinary Sciences: Computational Life Sciences | Submission accepted
+Computational identification and characterization of microRNAs and their target genes in rainbow trout (Oncorhynchus mykiss) | Journal of Genetics | Submission rejected
+How was your experience today? Rating. A scale of 5 feelings conveyed using images that range from awful to great. The feelings represent how you feel about your experience today. An image of a cartoon face that is very unhappy. The value of this radio input is: Awful An image of a cartoon face with a frown. The value of this radio input is: Bad An image of a cartoon face with a neutral expression. The value of this radio input is: OK An image of a cartoon face with a smile. The value of this radio input is: Good An image of a cartoon face with an open mouth grin. The value of this radio input is: Great Send feedback Footer Navigation Your submissions Help and support Your Privacy Choices / Manage Cookies Accessibility statement Privacy policy Terms of use |  | © 2026 Springer Nature
