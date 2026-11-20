@@ -1,4 +1,4 @@
-Biosecurity Screening of Obfuscated Bacterial Virulence-Factor Sequences via DuetScreen | Nature Machine Intelligence | Editorial assignment
+Biosecurity Screening of Obfuscated Bacterial Virulence-Factor Sequences via DuetScreen | Nature Machine Intelligence | Peer review
 Learning alignment topology improves structural variant discovery from long-read sequencing | Nature Communications | Peer review
 RetroMind: A Human-in-Loop AI-Driven Retrosynthetic Analysis Platform to Accelerate Drug Discovery | Nature Computational Science | Submission rejected
 Reaction-aware hypergraph learning of chemical representations with LARK | Nature Catalysis | Technical checks
