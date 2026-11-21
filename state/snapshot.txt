@@ -1,3 +1,4 @@
+Reprogrammed infection-state cells orchestrate intercellular immune signaling in Medicago roots against Phytophthora | Nature Communications | Peer review
 RetroMind enables human-guided comparison of AI-generated retrosynthetic routes | Nature Biotechnology | Technical checks
 Biosecurity Screening of Obfuscated Bacterial Virulence-Factor Sequences via DuetScreen | Nature Machine Intelligence | Peer review
 Learning alignment topology improves structural variant discovery from long-read sequencing | Nature Communications | Peer review
@@ -15,7 +16,6 @@ A Novel Support Bio-Sequence-Guided Model with Application to Epigenetic Modific
 Long-range stromal–immune communication reorganizes response niches in oral squamous cell carcinoma | Nature Communications | Submission rejected
 The monkey regulome provides insight into origin and evolution of regulatory element across primates | Nature Genetics | Submission rejected
 Semantic-level multimodal molecular learning inspired by biological concept formation via soft matching | Nature Communications | Revision requested: The corresponding author needs to make revisions to this submission.
-Reprogrammed infection-state cells orchestrate intercellular immune signaling in Medicago roots against Phytophthora | Nature Communications | Peer review
 PauseNet: base-resolution prediction and interpretation of pausing-associated transcription profiles from DNA sequence | Nature Communications | Submission rejected
 scMomer: a pretraining framework for inferring robust cellular representations from single-cell transcriptomes | Nature Communications | Submission accepted
 A Novel Support Bio-Sequence-Guided Model with Application to Epigenetic Modification Prediction | Nature Computational Science | Submission rejected
