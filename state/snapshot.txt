@@ -1,5 +1,5 @@
-RetroMind enables human-guided comparison of AI-generated retrosynthetic routes | Nature Biotechnology | Editorial assignment
-Reprogrammed infection-state cells orchestrate intercellular immune signaling in Medicago roots against Phytophthora | Nature Communications | Peer review
+RetroMind enables human-guided comparison of AI-generated retrosynthetic routes | Nature Biotechnology | Submission rejected
+Reprogrammed infection-state cells orchestrate intercellular immune signaling in Medicago roots against Phytophthora | Nature Communications | Revision requested: The corresponding author needs to make revisions to this submission.
 Biosecurity Screening of Obfuscated Bacterial Virulence-Factor Sequences via DuetScreen | Nature Machine Intelligence | Peer review
 Learning alignment topology improves structural variant discovery from long-read sequencing | Nature Communications | Peer review
 RetroMind: A Human-in-Loop AI-Driven Retrosynthetic Analysis Platform to Accelerate Drug Discovery | Nature Computational Science | Submission rejected
